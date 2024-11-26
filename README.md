@@ -25,7 +25,7 @@ If you're looking for a passionate and skilled software engineer to help you bui
 
 ## Connect with me: <p align="center">
 
-<a href = "https://www.linkedin.com/in/ankit0-0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://www.linkedin.com/in/ankit000/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "mailto:ankipundir090@gmail.com"><img src="https://user-images.githubusercontent.com/86846633/236041159-79192d7d-aae1-4114-b657-56c45948d41d.png"></a>
 <a href = "https://x.com/AnkitPu49038709"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 
