@@ -10,7 +10,7 @@ Here's what I'm looking for in my next role:
 
 If you're looking for a passionate and skilled software engineer to help you build the future, please reach out to me!
 
-- ✉️ Email: ankipundir090@gmail.com
+- ✉️ Email: ankitpundir.work@gmail.com
 
 ## Skills
 
